@@ -1,0 +1,25 @@
+{
+  "name": "@types/cordova-plugin-nativeview",
+  "version": "1.0.11",
+  "description": "Start or Back to a native screen/page",
+  "main": "",
+  "scope": "@types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfdeveloper/cordova-plugin-nativeview.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-plugin",
+    "native-screen"
+  ],
+  "author": "Michel Felipe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfdeveloper/cordova-plugin-nativeview/issues"
+  },
+  "homepage": "https://github.com/mfdeveloper/cordova-plugin-nativeview#readme"
+}
